@@ -8,3 +8,4 @@ FROM DW_Martar.amf.Dimension_Försäkring
 WHERE DW_Giltig_Tom = '9999-12-31'
 
 --Vad är syftet med detta? Kommer bli skitmånga rader!
+--Kass kod Veronica
